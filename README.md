@@ -1,10 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: Samyocord#2272 on Discord
-- 😄 Pronouns: he
-- ⚡ Fun fact: I use GitHub
+### Hi there!
+# I'm Samyocord
+### [my website](https://fisch03.xyz/)
+[![Samyocord's github stats](https://github-readme-stats.vercel.app/api?username=Samyocord&count_private=true&show_icons=true&theme=radical&hide_title=true)](https://github-readme-stats.vercel.app/api?username=Samyocord&count_private=true&show_icons=true&theme=radical&hide_title=true)
