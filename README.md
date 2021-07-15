@@ -1,5 +1,5 @@
 ### Hi there!
-# I'm Samyocord
+# I'm SamyoFox
 ### [my website](https://samyofox.ninja/?utm_source=github)
 Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/%7BSamyoFox%7D/count.svg)
